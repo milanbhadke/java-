@@ -12,6 +12,7 @@ public static void main(String[]args) {
 	System.out.println(num + "is ood num.") ;
 	
 	}
+	System.out.println("dfdf");
 	
 }
 	
